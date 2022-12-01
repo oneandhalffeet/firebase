@@ -1,4 +1,13 @@
 {
+  "name": "firebase_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test Specified\" "
+  },
+  "keywords": [],
+  "author": "Uddesh_teke",
   "dependencies": {
     "firebase": "^9.14.0"
   }
